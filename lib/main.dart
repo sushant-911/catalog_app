@@ -6,6 +6,7 @@ import 'package:catalog_app/utils/routes.dart';
 import 'package:catalog_app/widgets/themes.dart';
 import 'package:flutter/material.dart';
 
+// main function
 void main() {
   runApp(MyApp());
 }
